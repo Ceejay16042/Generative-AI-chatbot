@@ -6,3 +6,4 @@ ChatGenie is a UniModal Chatbot that incorporates the text to text generation fe
 
 ##### Minimum Requirements: Nvidia T4 - small	4vCPU	15GBMemory 
 
+## Demo
